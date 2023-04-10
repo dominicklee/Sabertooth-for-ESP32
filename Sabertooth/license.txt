@@ -1,18 +1,6 @@
-# Sabertooth Motor Driver Library for ESP32
-Sabertooth Arduino library rewritten for ESP32
-
-## Overview ##
-The Sabertooth Motor driver is a powerful and versatile board created by Dimension Engineering, Inc. The company provides an open-source Arduino library for users to customize and configure to control their motor driver products. However, it was not initially designed to be compatible with the ESP32 boards.
-
-This repository is my revised library that enables users to use the `SoftwareSerial` example on an ESP32 microcontroller to drive the Sabertooth board. This library may also work with ESP8266 boards, but full functionality is not guaranteed.
-
-## License ##
 Arduino Libraries for SyRen/Sabertooth
 Copyright (c) 2012-2013 Dimension Engineering LLC
 http://www.dimensionengineering.com/arduino
-
-Library ported to work with ESP32.
-Adaptation by Dominick Lee.
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
